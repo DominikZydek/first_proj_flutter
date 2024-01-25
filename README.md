@@ -1,16 +1,26 @@
-# first_proj
+# first_proj_flutter
 
-A new Flutter project.
+Hi there. This is my first project in Flutter :)
 
-## Getting Started
+## How it looks
 
-This project is a starting point for a Flutter application.
+All the app has is the layout which I've just recently learned.
 
-A few resources to get you started if this is your first Flutter project:
+![Zrzut ekranu 2024-01-25 171307](https://github.com/DominikZydek/first_proj_flutter/assets/139676226/47efda31-a1d8-4cd7-a321-87110a55d40a)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Widgets I've used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Scaffold()
+- AppBar()
+- Padding()
+- Row()
+- Column()
+- Text()
+- TextStyle()
+- SizedBox()
+- Icon()
+- CircleAvatar()
+- AssetImage()
+- Center()
+- Divider()
+
