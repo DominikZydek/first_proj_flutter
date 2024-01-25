@@ -4,9 +4,9 @@ Hi there. This is my first project in Flutter :)
 
 ## How it looks
 
-All the app has is the layout which I've just recently learned.
+I've built a simple layout and added a functionality (increasing age with a button).
 
-![Zrzut ekranu 2024-01-25 171307](https://github.com/DominikZydek/first_proj_flutter/assets/139676226/47efda31-a1d8-4cd7-a321-87110a55d40a)
+![Zrzut ekranu 2024-01-25 204107](https://github.com/DominikZydek/first_proj_flutter/assets/139676226/8c84812c-4dc2-4ce6-912f-a0f915c31c19)
 
 ## Widgets I've used
 
